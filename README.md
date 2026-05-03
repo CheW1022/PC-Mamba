@@ -10,4 +10,4 @@ Mani, M., Aggarwal, H.K., Magnotta, V., Jacob, M., 2020. Improved MUSSELS recons
 Guo, H., Li, J., Dai, T., Ouyang, Z., Ren, X., Xia, S.-T., 2025b. MambaIR: a simple baseline for image restoration with state-space model. In: Proceedings of the European Conference on Computer Vision. pp. 222-241.
 
 Contact info:
-Che Wang, 2023, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences Emails: w1873099961@163.com
+Che Wang, 2026, Xiamen University, Email: w1873099961@163.com
